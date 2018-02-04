@@ -18,3 +18,13 @@ EurekaService+ServiceProviders+EurekaRibbon(Netflix Hystrix)+ConfigService+ZuulG
 
 
 
+
+
+
+
+# v1.05架构图
+![架构图](images/v1.05.png)
+
+
+# 微服务架构技术栈
+![微服务架构技术栈](images/microservice.jpg)
