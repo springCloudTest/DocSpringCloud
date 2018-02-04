@@ -27,4 +27,4 @@ EurekaService+ServiceProviders+EurekaRibbon(Netflix Hystrix)+ConfigService+ZuulG
 
 
 # 微服务架构技术栈
-![微服务架构技术栈](images/microservice.jpg)
+![微服务架构技术栈-网上看到的图(侵联删)](images/microservice.jpg)
